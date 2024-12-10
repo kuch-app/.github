@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🔒 User-Friendly Authenticator App 
 
 <!--
 
